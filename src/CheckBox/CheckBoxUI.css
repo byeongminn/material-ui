@@ -1,0 +1,13 @@
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.checkBox {
+    color: green;
+}
+
+.hidden {
+    display: none;
+}
